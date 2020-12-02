@@ -1,5 +1,5 @@
 # AntiDDoS-GTPS
-Dm OkeSip#4674 To Get Free Trial For 1 Day
+AntiDDoS For Growtopia Private Server Servers
 
 # How To Use
 1. Download The File
@@ -12,6 +12,12 @@ Dm OkeSip#4674 To Get Free Trial For 1 Day
 
 # Info
 If You Want More Expired Time, You Can Buy Account To OkeSip#4674
+
+# Feature
+[+] Custom IP Address
+[+] Custom Port
+[+] Custom Web Index
+[+] Hider Server Data
 
 # Price
 1 Month : Rp8.000 / 50Wls
