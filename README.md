@@ -24,3 +24,7 @@ If You Want More Expired Time, You Can Buy Account To OkeSip#4674
 2 Month : Rp16.000 / 1Dls
 6 Month : Rp45.000 / 3Dls
 12 Month : Rp90.000 / 6ls
+
+# Discord
+Join Discord Link For More Info
+https://discord.gg/baaXcGVhQj
