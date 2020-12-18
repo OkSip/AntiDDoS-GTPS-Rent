@@ -2,8 +2,8 @@
 AntiDDoS For Growtopia Private Server Servers
 
 # How To Use
-1. Download The File
-2. Open Setup.bat
+1. Goto Release Tab
+2. Search AntiDDoS.zip
 3. Download Lastest AntiDDoS Version In Release
 4. Open antiddos.exe
 5. Input The Username & Password That You've Buyed From OkeSip#4674
